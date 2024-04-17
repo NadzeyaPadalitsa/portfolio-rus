@@ -10,14 +10,14 @@ export const Contacts: React.FC = () => {
   return (
     <S.Contacts id={"contacts"}>
       <Container>
-        <SectionTitle>Contacts</SectionTitle>
+        <SectionTitle>Контакты</SectionTitle>
         <FlexWrapper justify={"center"} align={"center"} wrap={"wrap"} direction={"column"}>
-          <Description>Want to know more or just chat? You are welcome!</Description>
+          <Description>Хотите узнать больше или просто пообщаться? Пожалуйста!</Description>
           <S.Form>
             <S.Field required placeholder={"name"} />
             <S.Field required type={"email"} placeholder={"e-mail"} />
             <S.Field required as={"textarea"} placeholder={"Message"} />
-            <Button type={"submit"}>Send message</Button>
+            <Button type={"submit"}>Отправить сообщение</Button>
           </S.Form>
         </FlexWrapper>
       </Container>

@@ -8,15 +8,15 @@ export const About: React.FC = () => {
   return (
     <S.About id={"about"}>
       <Container>
-        <SectionTitle>About me</SectionTitle>
+        <SectionTitle>Обо мне</SectionTitle>
         <S.AboutWrapper>
-          <Description>Hi, I’m Nadia Padalitsa, 33 years old, Belarus. I am interested in web development and everything connected with it.</Description>
-          <Description>I have a higher education, graduated from the "Belarusian State Technological University". I took courses on layout at <a href="https://htmlacademy.ru/profile/id1983015">htmlacademy</a> and "Professional Layout in ReactJS" at the <a href="https://it-incubator.io/education/html-css-in-react">IT-incubator</a>.</Description>
-          <Description>I can create adaptive cross-browser optimized layout that is compatible with modern browsers. I know how to automate my work with DevTools, Node.js, npm-skipts, Autoprefixer, Pixel Perfect, Gulp.
-            Familiar with either Webpack and Vite.
-            I know the BEM methodology and how to make CSS animations. My portfolio is written in ReactJS(TypeScript). I know the syntax and capabilities of Styled Components.</Description>
-          <Description> I write code thinking about clean and beautiful solutions to problems. Ready to implement great projects with wonderful people.</Description>
-          <Description>I have the following soft skills: search and analysis of information, planning skills, ability to ask questions, working with feedback, teamwork, independence</Description>
+          <Description>Привет, я Надя Падалица, 33 года, Беларусь. Интересуюсь веб-разработкой и всем, что с ней связано.</Description>
+          <Description>Я окончила «Белорусский государственный технологический университет». Училась на курсах верстки в <a href="https://htmlacademy.ru/profile/id1983015">htmlacademy</a> и "Профессиональная верстка на ReactJS" в <a href="https://it-incubator.io/education/html-css-in-react">IT-incubator</a>.</Description>
+          <Description>Умею делать адаптивную верстку под различные устройства и браузеры. Я знаю, как автоматизировать свою работу с DevTools, Node.js, npm-skipts, Autoprefixer, Pixel Perfect, Gulp.
+            Знакома с Webpack and Vite.
+            Я знаю методологию БЭМ и умею создавать CSS-анимацию. Мое портфолио написано на ReactJS(TypeScript). Я знаю синтаксис и возможности Styled Components.</Description>
+          <Description> Я пишу код, думая о простых и красивых решениях проблем. Хочу реализовывать отличные проекты с замечательными людьми.</Description>
+          <Description> Я стремлюсь к профессиональному росту, легко завожу и поддерживаю разговор на любую тему, не теряю самообладание в конфликтных ситуациях, постоянно совершенствую свои знания, навыки и умения.</Description>
         </S.AboutWrapper>
       </Container>
     </S.About >

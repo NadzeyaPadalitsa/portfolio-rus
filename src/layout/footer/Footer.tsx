@@ -35,7 +35,7 @@ export const Footer: React.FC = () => {
               </S.SocialItem>
             })}
           </S.SocialList>
-          <S.Copyright>© 2023 Nadia Padalitsa, All Rights Reserved.</S.Copyright>
+          <S.Copyright>©2023 Надя Падалица, все права защищены.</S.Copyright>
         </FlexWrapper>
       </Container>
     </S.Footer>

@@ -24,7 +24,7 @@ export const Main: React.FC = () => {
             </picture>
           </Tilt>
           <div>
-            <S.Name>Nadia Padalitsa</S.Name>
+            <S.Name>Надежда Падалица</S.Name>
             <S.MainTitle>
               <p>A Web Developer.</p>
               <Typewriter

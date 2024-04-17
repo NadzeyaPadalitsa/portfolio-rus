@@ -22,7 +22,7 @@ export const Skills: React.FC = () => {
   return (
     <S.Skills id={"skills"}>
       <Container>
-        <SectionTitle> Skills</SectionTitle>
+        <SectionTitle> Навыки</SectionTitle>
         <Fade cascade={true} damping={0.3}>
           <S.SkillList>
             {skillsData.map((s, index) => {

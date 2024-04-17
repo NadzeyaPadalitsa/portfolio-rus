@@ -96,7 +96,7 @@ export const Projects: React.FC = () => {
   return (
     <S.Projects id={"projects"}>
       <Container>
-        <SectionTitle>My projects</SectionTitle>
+        <SectionTitle>Мои проекты</SectionTitle>
         <FlexWrapper justify={"space-between"} align={"flex-start"} wrap={"wrap"}>
           {projectsData.map((p, index) => {
             return <Project title={p.title} srcSetAvif={p.srcSetAvif} src={p.src} srcSet={p.srcSet} srcSetWebp={p.srcSetWebp}  hrefCode={p.hrefCode} hrefPreview={p.hrefPreview} text={p.text} key={index} />

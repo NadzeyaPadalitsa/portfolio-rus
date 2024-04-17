@@ -2,11 +2,11 @@ import React from 'react';
 import { S } from '../HeaderMenu_Styles';
 
 const items = [
-  { title: "Home", href: "home" },
-  { title: "About", href: "about" },
-  { title: "Skills", href: "skills" },
-  { title: "Projects", href: "projects" },
-  { title: "Contacts", href: "contacts" }
+  { title: "Главная", href: "home" },
+  { title: "Обо мне", href: "about" },
+  { title: "Навыки", href: "skills" },
+  { title: "Проекты", href: "projects" },
+  { title: "Контакты", href: "contacts" }
 ]
 
 export const Menu: React.FC = () => {
