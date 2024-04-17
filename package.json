@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-start",
+  "name": "portfolio-rus",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nadin3112.github.io/portfolio",
+  "homepage": "https://Nadin3112.github.io/portfolio-rus",
   "dependencies": {
     "@babel/core": "7.16.0",
     "@emotion/react": "^11.11.3",
