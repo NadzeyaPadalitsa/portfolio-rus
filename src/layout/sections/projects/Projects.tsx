@@ -43,8 +43,8 @@ const projectsData = [
     srcSetWebp: `${sedonaImgWebp} 1x, ${sedonaImgWebp2x} 2x`,
     srcSetAvif: `${sedonaImgAvif} 1x, ${sedonaImgAvif2x} 2x`,
     text: "Tech stack : HTML, JavaScript, SASS, Gulp, Bem",
-    hrefPreview: "https://nadin3112.github.io/1983015-sedona-28/",
-    hrefCode: "https://github.com/Nadin3112/1983015-sedona-28"
+    hrefPreview: "https://NadzeyaPadalitsa.github.io/1983015-sedona-28/",
+    hrefCode: "https://github.com/NadzeyaPadalitsa/1983015-sedona-28"
   },
 
   {
@@ -54,8 +54,8 @@ const projectsData = [
     srcSetWebp: `${storeImgWebp} 1x, ${storeImgWebp2x} 2x`,
     srcSetAvif: `${storeImgAvif} 1x, ${storeImgAvif2x} 2x`,
     text: "Tech stack : HTML, JavaScript, SASS, Gulp, Bem",
-    hrefPreview: "https://nadin3112.github.io/classic-wood-style/",
-    hrefCode: "https://github.com/Nadin3112/classic-wood-style"
+    hrefPreview: "https://NadzeyaPadalitsa.github.io/classic-wood-style/",
+    hrefCode: "https://github.com/NadzeyaPadalitsa/classic-wood-style"
   },
 
   {
@@ -65,8 +65,8 @@ const projectsData = [
     srcSetWebp: `${keksImgWebp} 1x, ${keksImgWebp2x} 2x`,
     srcSetAvif: `${keksImgAvif} 1x, ${keksImgAvif2x} 2x`,
     text: "Tech stack : HTML, JavaScript, Vite",
-    hrefPreview: "https://github.com/Nadin3112/1983015-kekstagram-30",
-    hrefCode: "https://github.com/Nadin3112/1983015-kekstagram-30"
+    hrefPreview: "https://github.com/NadzeyaPadalitsa/1983015-kekstagram-30",
+    hrefCode: "https://github.com/NadzeyaPadalitsa/1983015-kekstagram-30"
   },
 
   {
@@ -76,8 +76,8 @@ const projectsData = [
     srcSetWebp: `${portfolioImgWebp} 1x, ${portfolioImgWebp2x} 2x`,
     srcSetAvif: `${portfolioImgAvif} 1x, ${portfolioImgAvif2x} 2x`,
     text: "Tech stack : React, JavaScript, TypeScript, Styled Components",
-    hrefPreview: "https://nadin3112.github.io/portfolio/",
-    hrefCode: "https://github.com/Nadin3112/portfolio"
+    hrefPreview: "https://NadzeyaPadalitsa.github.io/portfolio/",
+    hrefCode: "https://github.com/NadzeyaPadalitsa/portfolio"
   },
 
   {
@@ -87,8 +87,8 @@ const projectsData = [
     srcSetWebp: `${nftImgWebp} 1x, ${nftImgWebp2x} 2x`,
     srcSetAvif: `${nftImgAvif} 1x, ${nftImgAvif2x} 2x`,
     text: "Tech stack : React, JavaScript, TypeScript, Styled Components",
-    hrefPreview: "https://nadin3112.github.io/project-creative-art/",
-    hrefCode: "https://github.com/Nadin3112/project-creative-art"
+    hrefPreview: "https://NadzeyaPadalitsa.github.io/project-creative-art/",
+    hrefCode: "https://github.com/NadzeyaPadalitsa/project-creative-art"
   }
 ]
 
