@@ -6,9 +6,9 @@ import { Link } from '../../components/Link';
 import { S } from './Footer_Styles';
 
 const socialItemsData = [
-  { iconId: "telegram", ariaLabel: "My telegram", href: "https://t.me/nadya31121990", width: "40", height: "34", viewBox:"0 0 40 34"},
+  { iconId: "telegram", ariaLabel: "My telegram", href: "https://t.me/NadzeyaPadalitsa", width: "40", height: "34", viewBox:"0 0 40 34"},
   { iconId: "linkedin", ariaLabel: "My linkedin", href: "#", width: "35", height: "35", viewBox:"0 0 35 35"},
-  { iconId: "gith", ariaLabel: "My github", href: "https://github.com/Nadin3112", width: "35", height: "35", viewBox:"0 0 35 35"}
+  { iconId: "gith", ariaLabel: "My github", href: "https://github.com/NadzeyaPadalitsa", width: "35", height: "35", viewBox:"0 0 35 35"}
 ]
 
 export const Footer: React.FC = () => {
